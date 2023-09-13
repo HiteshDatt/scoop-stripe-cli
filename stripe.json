@@ -2,14 +2,14 @@
     "version": "1.17.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.17.2/stripe_1.17.2_windows_i386.zip",
+            "url": "https://github.com/HiteshDatt/stripe-cli/releases/download/v1.17.2/stripe_1.17.2_windows_i386.zip",
             "bin": [
                 "stripe.exe"
             ],
             "hash": "841b5b58cf5a71d5d6674914f598433cab9ca189e6e3dbc9535bff881b214c34"
         },
         "64bit": {
-            "url": "https://github.com/stripe/stripe-cli/releases/download/v1.17.2/stripe_1.17.2_windows_x86_64.zip",
+            "url": "https://github.com/HiteshDatt/stripe-cli/releases/download/v1.17.2/stripe_1.17.2_windows_x86_64.zip",
             "bin": [
                 "stripe.exe"
             ],
